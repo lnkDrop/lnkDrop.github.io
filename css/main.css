@@ -6,11 +6,11 @@ header,
   overflow-wrap: break-word;
 }
 body {
-  background-color: #eee;
-  color: #3c4858;
+  background-color: #8EC0E4;
+  color: #282c37;
 }
 body a {
-  color: #3c4858;
+  color: #282c37;
 }
 body a:hover {
   color: #1abc9c;
@@ -33,7 +33,7 @@ img[srcset] {
 #board {
   position: relative;
   margin-top: -2rem;
-  background-color: #fff;
+  background-color: #D4DFE6;
   border-radius: 0.5rem;
   z-index: 3;
 }
@@ -173,10 +173,10 @@ post-content strong {
   color: white;
 }
 .top-nav-collapse {
-  background-color: #4F86C6;
+  background-color: #8EC0E4;
 }
 .navbar-col-show {
-  background-color: #4F86C6;
+  background-color: #8EC0E4;
 }
 @media (max-width: 767px) {
   .navbar {
@@ -665,7 +665,7 @@ h6::before {
   font-size: 15px;
 }
 .tocbot-link {
-  color: #3c4858;
+  color: #282c37;
 }
 .tocbot-active-link {
   font-weight: 600;
